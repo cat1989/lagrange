@@ -1,0 +1,23 @@
+{
+  "name": "lagrange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cat1989/lagrange.git"
+  },
+  "keywords": [],
+  "author": "cat1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cat1989/lagrange/issues"
+  },
+  "homepage": "https://github.com/cat1989/lagrange#readme",
+  "files": [
+    "lib"
+  ]
+}
